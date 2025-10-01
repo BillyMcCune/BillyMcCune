@@ -14,8 +14,7 @@
 I am a Computer Science + Mathematics student at Duke University and an aspiring Software Engineer.  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working on projects in **game engines, operating systems, and machine learning**.  
-- :seedling: Currently diving deeper into **systems programming, databases, and NLP**.  
+- :computer: I have experience in full-stack development, systems programming, and machine learning. I’ve built scalable web applications and geospatial data pipelines as a Software Engineering Intern at DSPTCH, and developed scientific simulation tools at Duke OIT and Code+. Beyond work, I design and launch projects from a Java 2D game engine to a Go + BERT topic modeling tool, combining strong backend, frontend, and data science skills. 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BillyMcCune-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/billymccune)
 
 ---
@@ -39,9 +38,9 @@ I am a Computer Science + Mathematics student at Duke University and an aspiring
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyMcCune&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=BillyMcCune&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&custom_title=Total%20Contributions&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 [![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyMcCune)](https://github.com/anuraghazra/github-readme-stats) 
 -->
+
 
