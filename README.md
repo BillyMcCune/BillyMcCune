@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=BillyMcCune&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=BillyMcCune&style=flat-square&color=blue" alt=""/> -->
 
 ---
 
@@ -42,6 +42,7 @@ I am a Computer Science + Mathematics student at Duke University and an aspiring
 <!-- 
 [![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyMcCune)](https://github.com/anuraghazra/github-readme-stats) 
 -->
+
 
 
 
