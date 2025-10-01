@@ -39,8 +39,9 @@ I am a Computer Science + Mathematics student at Duke University and an aspiring
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyMcCune&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BillyMcCune&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=BillyMcCune&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&custom_title=Total%20Contributions&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 [![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyMcCune)](https://github.com/anuraghazra/github-readme-stats) 
 -->
+
