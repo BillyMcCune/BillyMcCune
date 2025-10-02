@@ -15,7 +15,7 @@ I am a Computer Science + Mathematics student at Duke University and an aspiring
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :computer: I have experience in full-stack development, systems programming, and machine learning. I’ve built scalable web applications and geospatial data pipelines as a Software Engineering Intern at DSPTCH, and developed scientific simulation tools at Duke OIT and Code+. Beyond work, I design and launch little projects from a Java 2D game engine to a GO/Python-based CLI prompt feedback tool.
-- TLDR: I like to try out stuff and build things that solve problems like improving prompts or playing/making a game on an airplane with no wifi
+- TLDR: I like to try out stuff and build things for fun
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BillyMcCune-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-mccune-duke)
 
 ---
@@ -43,6 +43,7 @@ I am a Computer Science + Mathematics student at Duke University and an aspiring
 <!-- 
 [![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyMcCune)](https://github.com/anuraghazra/github-readme-stats) 
 -->
+
 
 
 
