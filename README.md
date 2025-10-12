@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/billymccune](https://www.linkedin.com/in/william-mccune-duke/">
+  <a href="https://www.linkedin.com/in/william-mccune-duke/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -43,6 +43,7 @@ I am a Computer Science + Mathematics student at Duke University and an aspiring
 <!-- 
 [![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyMcCune)](https://github.com/anuraghazra/github-readme-stats) 
 -->
+
 
 
 
