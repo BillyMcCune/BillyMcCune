@@ -36,9 +36,6 @@ I am a Computer Science + Mathematics student at Duke University and an aspiring
 
 ---
 
-### :fire: My Stats :
-[![Top Langs](https://github-stats-extended.vercel.app/api?username=BillyMcCune)](https://github.com/stats-organization/github-stats-extended)
-
 
 <!-- 
 [![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyMcCune)](https://github.com/anuraghazra/github-readme-stats) 
