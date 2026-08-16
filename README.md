@@ -15,7 +15,7 @@
 I’m William McCune — a Computer Science + Mathematics student at Duke University and a Software Engineer Intern on Apple’s AI and Data Platforms team in Austin.  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :apple: At Apple, I built distributed data infrastructure and GenAI-powered developer tooling for large-scale graph platforms.
+- :apple: At Apple, I built distributed data infrastructure and GenAI-powered tooling for large-scale  platforms.
 - :gear: My recent work includes Apache Airflow and Spark pipelines, metadata automation, GDPR data-governance infrastructure, and batch ingestion services for datasets with billions of graph nodes.
 - :computer: Previously, I built geospatial Rails/Postgres systems at DSPTCH and scientific simulation platforms at Duke OIT and Code+.
 - :brain: Outside of work, I build developer tools and systems projects, including TopicManifold — a Go/Python CLI for analyzing LLM terminal interactions.
